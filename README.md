@@ -18,7 +18,7 @@ The objective of this project was to practice:
 Weather data was fetched using a public Weather API and connected directly to Power BI.
 
 🎥 Tutorial Reference:  
-[https://youtu.be/P8HB8dMfKNc?si=4CZlzm46Bs7sdBKV]
+https://youtu.be/P8HB8dMfKNc?si=4CZlzm46Bs7sdBKV
 
 ---
 
@@ -59,14 +59,14 @@ This ensured:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - Current temperature display
 - 7-day forecast line chart
 - Sunrise and Sunset
 - City slicer
 - Weather KPIs (Humidity, Wind Speed, Pressure, UV Index, Precipitation)
-- AQI with color indicators for hazardous, severe, normal etc.
+- AQI with color indicators (hazardous, severe, normal, etc.)
 
 ---
 
@@ -76,22 +76,21 @@ The **"Last Updated" refresh** functionality was previously working correctly bu
 
 Current status:
 
-- City slicer works correctly
-- Forecast and visuals update properly
-- "Last Updated" timestamp does not refresh automatically
+- City slicer works correctly  
+- Forecast and visuals update properly  
+- "Last Updated" timestamp does not refresh automatically  
 
 This issue will be investigated and resolved in a future update.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-_Add your screenshot file in the repository and reference it like this:_
+This dashboard shows real-time weather insights using API data.
 
-```
-![<img width="1333" height="753" alt="image" src="https://github.com/user-attachments/assets/ddd4c982-632e-465a-8d0f-ea07fe9f68f0" />
-)
-```
+<br>
+
+<img width="1333" height="753" alt="Weather Dashboard Preview" src="https://github.com/user-attachments/assets/44be0be7-0f3a-4071-878c-8087b55453f0" />
 
 ---
 
@@ -104,7 +103,7 @@ _Add your screenshot file in the repository and reference it like this:_
 
 ---
 
-##  Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this project, I learned:
 
@@ -112,8 +111,4 @@ Through this project, I learned:
 - Handling and transforming nested JSON data
 - Creating multiple structured tables from a master dataset
 - Building relationships for scalable reporting
-- Debugging refresh and datatype issues 
-
----
-
-
+- Debugging refresh and datatype issues
